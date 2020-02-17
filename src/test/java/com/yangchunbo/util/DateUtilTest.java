@@ -7,6 +7,8 @@ import java.util.Date;
 
 import org.junit.Test;
 
+import com.ydh.util.DateUtil;
+
 public class DateUtilTest {
 
 	

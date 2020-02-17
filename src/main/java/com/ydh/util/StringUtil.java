@@ -1,4 +1,4 @@
-package com.yangchunbo.util;
+package com.ydh.util;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URL;

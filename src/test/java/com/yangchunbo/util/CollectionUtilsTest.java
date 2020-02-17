@@ -7,6 +7,8 @@ import java.util.LinkedList;
 
 import org.junit.Test;
 
+import com.ydh.util.CollectionUtils;
+
 public class CollectionUtilsTest {
 
 	@Test

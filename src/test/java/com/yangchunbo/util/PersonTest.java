@@ -7,6 +7,10 @@ import java.util.Date;
 
 import org.junit.Test;
 
+import com.ydh.util.DateUtil;
+import com.ydh.util.RandomUtil;
+import com.ydh.util.StringUtil;
+
 public class PersonTest {
 
 	@Test

@@ -1,4 +1,4 @@
-package com.yangchunbo.util;
+package com.ydh.util;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
